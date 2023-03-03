@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anggita Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently study at [ITTP](https://ittelkom-pwt.ac.id/)
+- 🔭 I’m currently study at [INSTITUT TEKNOLOGI TELKOM PURWOKERTO](https://ittelkom-pwt.ac.id/)
 
 - 🌱 I’m currently learning **frontend course**
 
